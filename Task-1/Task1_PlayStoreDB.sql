@@ -27,7 +27,7 @@ DeveloperID INT,
 PublisherID INT,
 CategoryID INT,
 Rating DECIMAL(2,1),
-Downloads INT,
+Downloads BIGINT,
 Price DECIMAL(6,2)
 );
 
